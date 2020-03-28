@@ -1,6 +1,7 @@
 
 .idea
 
+.env
 # node.js
 #
 node_modules/
